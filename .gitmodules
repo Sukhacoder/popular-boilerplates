@@ -1,0 +1,9 @@
+[submodule "express"]
+	path = express
+	url = git@github.com:Sukhacoder/express.git
+[submodule "react"]
+	path = react
+	url = git@github.com:Sukhacoder/react.git
+[submodule "next"]
+	path = next
+	url = git@github.com:Sukhacoder/next.git
